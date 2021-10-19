@@ -1,2 +1,2 @@
-# etc_books
-etc books
+# computer-science
+learning computer-science
